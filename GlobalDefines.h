@@ -9,9 +9,11 @@
 
 #define MAX_ALLOCA_STACK_ALLOCATION 1048576
 
-#define TYPE_SERVER
+#define TYPE_SERVER 1
 
 #define USE_STL
+
+#define FOR_TEST
 
 #ifdef USE_STL
 #include<map>

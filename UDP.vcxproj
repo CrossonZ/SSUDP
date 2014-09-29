@@ -63,6 +63,8 @@
   <ItemGroup>
     <ClInclude Include="ConnectionLayer.h" />
     <ClInclude Include="ConnectionManager.h" />
+    <ClInclude Include="ObjectPool.h" />
+    <ClInclude Include="Singleton.h" />
     <ClInclude Include="UDPTimer.h" />
     <ClInclude Include="GlobalDefines.h" />
     <ClInclude Include="ReliabilityLayer.h" />
